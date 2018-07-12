@@ -1,13 +1,9 @@
 # ZeroDarkMatrix Theme for Chrome
 A highly customized dark theme for Google Chrome.
 
-Stable and Canary channels are officially supported.  Beta and Dev channels will work, but I'm not testing on them.
-
-➡ Please follow development for this theme at [zero base themes](https://github.com/mauricecruz/zero-base-themes).
-
 ## Installation
-
-* Add [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) from the Chrome Web Store.
+* **UPDATE** - Clone this Repo (do not go the Chrome App store)
+* **UPDATE** - Load the Extension using [these instruction](https://superuser.com/a/247654)
 * Open `chrome://flags/#enable-devtools-experiments` &#9654; Enable Developer Tools experiments and click "Relaunch Now" at the bottom.
 * Open developer tools settings, set Theme mode to 'Dark'
 * Select Experiments tab, and check 'Allow custom UI themes. Reopen the developer tools.
